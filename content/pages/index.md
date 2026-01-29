@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "HeroRunV2 is a fast-paced\_**online multiplayer 2D roguelite**\_where you and other players explore shifting dungeons together. Team up in\_**1–4 player co-op runs**, combine arcane spells, defeat brutal enemies, and survive the depths — one run at a time.\n\n"
     actions:
       - label: Get started
         altText: ''
