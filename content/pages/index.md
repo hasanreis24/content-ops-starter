@@ -689,7 +689,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: ''
+    text: |2
+       
     media:
       fields:
         - name: name
