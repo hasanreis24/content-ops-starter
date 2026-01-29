@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "Conquer the dungeons\_together."
+      text: "Conquer the dungeons\_together"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
